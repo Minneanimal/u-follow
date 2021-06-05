@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "UFollow",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

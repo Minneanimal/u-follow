@@ -1,0 +1,8 @@
+{
+  "name": "UFollow",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "84c911a6"
+}
